@@ -10,11 +10,11 @@
 
 ### 실습 1
 
-- 모델 학습 방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1sUvLAt12euJHcg3Vbg98I6ujrDu8tOas/view?usp=sharing)
+- 모델 학습 방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sUvLAt12euJHcg3Vbg98I6ujrDu8tOas)
 
 ### 실습 2
 
-- 모델 네트워크 경량화 방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1sUvLAt12euJHcg3Vbg98I6ujrDu8tOas/view?usp=sharing)
+- 모델 네트워크 경량화 방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sUvLAt12euJHcg3Vbg98I6ujrDu8tOas)
 
 ### 실습 3
 
