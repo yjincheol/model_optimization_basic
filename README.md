@@ -6,7 +6,7 @@
 
 ### 실습 0
 
-- CoLab 사용방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mWJoCZ2WqirWfwjte57euc0FlASr7p5Y)
+- CoLab 사용방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11_EwBB5ROvrWnas3pSeEwylDaLf0ON9k)
 
 ### 실습 1
 
