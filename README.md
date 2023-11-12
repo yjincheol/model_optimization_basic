@@ -29,6 +29,7 @@ Quantization 적용 방법
 
 - Quantization 기초 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XM6OxLoFSnYoKNVSyD3px9uthOBGNAZY?usp=sharing)
 - PTQ 적용 방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CJyPHhIS6xAvTB82nGmIZEJYAK96BM46?usp=sharing)
-- ### 실습 5
+
+### 실습 5
 
 - Token pruning 적용 방법 
