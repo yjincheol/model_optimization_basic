@@ -20,8 +20,8 @@
 
 Knowledge Distillation 적용 방법
 
-- Logit Distillation 방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1xVH81jLSJg-do3ipUdtvq3gXXC4o522j/view?usp=sharing)
-- Feature Distillation 방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1rPo27fwJZaRmxLGXyNqfo1R9mJ8lEYzE/view?usp=sharing)
+- Logit Distillation 방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xVH81jLSJg-do3ipUdtvq3gXXC4o522j)
+- Feature Distillation 방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rPo27fwJZaRmxLGXyNqfo1R9mJ8lEYzE)
   
 ### 실습 4
 
