@@ -32,4 +32,4 @@ Quantization 적용 방법
 
 ### 실습 5
 
-- Token pruning 적용 방법 
+- Token pruning 적용 방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14-Z3eynWErHR_dgCXu2dUlDvsYWm0rR6?authuser=1)
